@@ -1,0 +1,21 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Simple Node CSV to JSON converter",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flapdragon/csv-to-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flapdragon/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/flapdragon/csv-to-json#readme"
+}
