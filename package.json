@@ -4,7 +4,7 @@
   "description": "Simple Node CSV to JSON converter",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "parse": "node index.js"
   },
   "type": "module",
   "repository": {
