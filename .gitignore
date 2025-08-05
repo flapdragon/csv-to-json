@@ -1,3 +1,13 @@
+# Ignore CSV files
+*.csv
+
+# Ignore JSON files
+*.json
+
+# except for package.json and package-lock
+!package.json
+!package-lock.json
+
 # Logs
 logs
 *.log
