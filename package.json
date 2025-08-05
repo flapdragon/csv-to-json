@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/flapdragon/csv-to-json/issues"
   },
-  "homepage": "https://github.com/flapdragon/csv-to-json#readme"
+  "homepage": "https://github.com/flapdragon/csv-to-json#readme",
+  "dependencies": {
+    "fast-csv": "^5.0.5"
+  }
 }
