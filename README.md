@@ -1,8 +1,10 @@
 # csv-to-json
+
 Simple Node CSV to JSON converter. Uses `fs` and `fast-csv`.
 
 ## Usage
-```
+
+```shell script
 npm run parse my-csv-file.csv
 ```
 
